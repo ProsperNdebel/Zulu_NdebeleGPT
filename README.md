@@ -1,0 +1,2 @@
+# Zulu_NdebeleGPT
+ZuluGenerativePretrainedTransformer(ZuluGPT)
